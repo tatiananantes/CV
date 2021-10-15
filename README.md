@@ -10,31 +10,25 @@ Tech Skills : Ruby, HTML, CSS, JavaScript, jQuery, Bootstrap, Java
 
 ## Work Experience
 
-Talking Medicines (Jan '21 - May '21)  
-Head of Product
- - AI, SaaS
+Head of Product - Talking Medicines (Jan '21 - May '21)  
+  - AI, SaaS
 
-VMware (Sep '19 - Jan '21)  
-Senior Product Manager
- - Internal Tools
+Senior Product Manager - VMware (Sep '19 - Jan '21)  
+  - Internal Tools
 
-Reed Exhibitions (Jan '17 - Sep '19)  
-Senior Product Manager
- - Microservices, AEM, CMS, Algolia (Search), SaaS
+Senior Product Manager - Reed Exhibitions (Jan '17 - Sep '19)  
+  - Microservices, AEM, CMS, Algolia (Search), SaaS
 
-Momondo Group (Mar '16 - Dec '16)  
-Growth Product Manager
- - aggregator/search, Optimizely, SEO/PPC
+Growth Product Manager - Momondo Group (Mar '16 - Dec '16)  
+  - aggregator/search, Optimizely, SEO/PPC
 
-Time Out (Oct'14 - Dec '15)
-Global Product Manager
+Global Product Manager - Time Out (Oct'14 - Dec '15)
  - CMS, SaaS, Localization, Translations, ETL, Data migrations
 
-nestoria (Sept '13 - Aug '13)
-Product Manager - International
+Product Manager (International) - nestoria (Sept '13 - Aug '13)
  - aggregator/search, geo-location, P&L 
 
-Meltwater Group (May '10 - May '13) 
+Product Consultant | Product Specialist -  Meltwater Group (May '10 - May '13) 
 - SaaS, sales, consulting, media intelligence
 
 ## Education
