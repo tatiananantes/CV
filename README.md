@@ -1,77 +1,58 @@
-## Your Name
+## Tatiana Nantes
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm an ex product manager who (not so) secretely dreamt of becoming a software engineer. I'm curious and I thrive on challenges that push me out of my confort zone. I'm very interested in the world of cybersecurity and AI and security by design. 
 
-## Projects
+My growth mindset means at any point in time I'll most likely be learning something new. I have an international profile having worked, studied and lived in Europe, the US and Africa.
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+In my product career I have lead cross functional teams (Product, UX/UI, Engineering) and together we have built products that are used around the world, and I'm looking for a role where I can expand this journey as an engineer, whilst bringing all of the transferable skills and learnings from my past experience. 
+
+Tech Skills : Ruby, HTML, CSS, JavaScript, jQuery, Bootstrap, Java
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Talking Medicines (Jan '21 - May '21)  
+Head of Product
+ - AI, SaaS
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+VMware (Sep '19 - Jan '21)  
+Senior Product Manager
+ - Internal Tools
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Reed Exhibitions (Jan '17 - Sep '19)  
+Senior Product Manager
+ - Microservices, AEM, CMS, Algolia (Search), SaaS
 
-- Any experience relevent to software development
+Momondo Group (Mar '16 - Dec '16)  
+Growth Product Manager
+ - aggregator/search, Optimizely, SEO/PPC
 
-## Skills
+Time Out (Oct'14 - Dec '15)
+Global Product Manager
+ - CMS, SaaS, Localization, Translations, ETL, Data migrations
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+nestoria (Sept '13 - Aug '13)
+Product Manager - International
+ - aggregator/search, geo-location, P&L 
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Meltwater Group (May '10 - May '13) 
+- SaaS, sales, consulting, media intelligence
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (Oct '21 - Jan '22)
+A 16-week intensive development bootcamp
 
-#### Your University / College (start_date to end_date)
+#### University of York (Nov '20  - now)
+Postgraduate certificate - Computer Science (with Cybersecurity) 
+modules: Algorithms and Data Structures, Artificial Inteligence, Software Engineering, Security Engineering
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### UPF - Barcelona School of Management (Sep '09 - Jun '10)
+MSc International Business 
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### University of Porto - FEP (Sep '99 - Jun '04)
+MSc Economics
+- Erasmus award: Year abroad at Universita degli studi di Torino - Italy
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Volunteer with Dogs Search and Rescue Berkshire, hiking, longboarding, eskrima
