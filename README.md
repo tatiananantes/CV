@@ -29,11 +29,12 @@ Also, with a decade of experience in product I'll bring other relevant transfera
 
 ## Projects
 
-| Name | Description | Tech/Tools | Link |
-| --- | --- | --- | --- |
-[**Paw2Door**](https://github.com/tatiananantes/Paw2Door) | An aggregator for animal rescues and potencial adopters. Makers Academy Final Engineering Team Project | ReactJs, Django, SQL, HTML/CSS, Bootstrap, Postcodes.io API | [DemoDay](https://www.youtube.com/watch?v=T1Ul9LHaZSk&feature=youtube)| 
-[**Chitter**](https://github.com/tatiananantes/chitter-challenge) | A - lightweight - Twitter clone! A solo weekend challenge at Makers | Ruby, Sinatra, Capybara, RSpec, Postgres, HTML(erb), Bootstrap, CSS | - |
-[**AceBook**](https://github.com/tatiananantes/Acebook) | A Facebook Clone! This was a team engineering project using Rails for the first time. We were the only team with a live application in Heroku. | Ruby on Rails, HTML, CSS, Bootstrap, JS, Capybara, RSpec, Heroku, AWS | [See it Live](https://warm-cliffs-29833.herokuapp.com/)|
+| Name | About | Tech/Tools |
+| --- | --- | --- |
+[**Paw2Door**](https://github.com/tatiananantes/Paw2Door) | An aggregator for animal rescues and potencial adopters. Makers Academy Final Engineering Team Project. [DemoDay](https://www.youtube.com/watch?v=T1Ul9LHaZSk&feature=youtube) | ReactJs, Django, SQL, HTML/CSS, Bootstrap, Postcodes.io API |  
+[**Chitter**](https://github.com/tatiananantes/chitter-challenge) | A test-driven Twitter clone! A solo weekend challenge at Makers | Ruby, Sinatra, Capybara, RSpec, Postgres, HTML(erb), Bootstrap, CSS |
+[**AceBook**](https://github.com/tatiananantes/Acebook) | A Facebook Clone! This was a team engineering project using Rails for the first time. We were the only team with a live application in Heroku. [See it Live](https://warm-cliffs-29833.herokuapp.com/) | Ruby on Rails, HTML, CSS, Bootstrap, JS, Capybara, RSpec, Heroku, AWS |
+[**Bank Tech Test**](https://github.com/tatiananantes/bank-test) | A command line app, demonstrating my TDD/OOP practice. | Ruby, RSpec |
 
 You can see all my work on my github [profile](https://github.com/tatiananantes/)
 
