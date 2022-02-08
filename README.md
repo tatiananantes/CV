@@ -1,15 +1,13 @@
 Tatiana Nantes
 ----------------
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
 
 ## Who am I?
 I was previously a Head of Product who always wanted to become a software engineer. I taught myself how to code and was quickly hooked and knew this was something I was really passionate about. So here I am - a Junior Full Stack Software Engineer - having completed my postgrad studies in Computer Science last year and <a href="http://www.makersacademy.com/">Makers Academy</a> Full Stack Bootcamp in January '22. 
 
-I'm curious and I thrive on challenges that take me out of my confort zone and allow me to use my problem solving skills. I have an international profile having worked, studied and lived in Europe, the US and Africa and speak 5 languages. 
-
-During my journey at Makers I really enjoyed writing tested, clean and concise code that is easy to understand and reuse. 
+I'm curious and I thrive on challenges that take me out of my comfort zone and allow me to use my problem solving skills. I have an international profile having worked, studied and lived in Europe, the US and Africa and speak 5 languages. 
 
 ## What am I looking for?
 I am looking for roles which have a good support structure for junior engineers where I can learn and grow whilst contributing to the team and the product earlier on.
@@ -42,10 +40,11 @@ You can see all my work on my github [profile](https://github.com/tatiananantes/
 ## Skills
 
 ### Inquisitive
-I'm always digging into a new subject or picking up a new skill. This could be just for fun, like learning the violin or how not to die whilst riding a longboard, or something to further improve my career such as learning to code when I was a product manager to take on some of the tasks off the engineering team. I also learnt Django and React whilst building the final 2 week project as I wanted to learn new languages that I had not used before. 
+I'm always digging into a new subject or picking up a new skill. This could be just for fun, like learning the violin or how not to die whilst riding a longboard, or something to further improve my career such as learning to code when I was a product manager to take on some of the tasks off the engineering team and release some of their workload.  
+At Makers I took on learning how to deploy an application on Heroku during our 2nd team project and we were the only team who add a application in production as a result. I also learnt Django and React whilst building the final 2 week team project as I wanted to learn new languages that I had not used before.
 
 ### Communication
-As a product manager I spent a lot of time translating user and stakeholder into engineering and back again. I believe that if everybody is on the same page and understands exactly who's doing what, when and why everything runs smoother and products do what they're supposed to. 
+As a product manager I spent a lot of time translating end user and stakeholders into engineering and back again. I believe that if everybody is on the same page and understands exactly who's doing what, when and why everything runs smoother and products do what they're supposed to. 
 
 ### Adaptable
 New environments, languages, countries, cultures, teams or challenges haven't stopped me from succeding no matter what. Ask me about my time working in a concrete factory in the Tunisian outback.  
@@ -112,8 +111,7 @@ More info on pre tech career on [LinkedIn](https://www.linkedin.com/in/tatianana
 ### Makers Academy (Oct '21 - Jan '22)
 A 16-week intensive full stack web development bootcamp
 - Focus on TDD, with an emphasis on pair programming and working in an agile way
-- OOO, TDD, MVC, SOLID
-- EQ curriculum
+- OOO, TDD, MVC
 
 ### University of York (Nov '20  - June '21)
 Postgraduate Certificate - Computer Science  
@@ -128,4 +126,4 @@ MSc Economics
 
 ***
 ## Hobbies
-Volunteer with Dogs Search and Rescue Berkshire, hiking, longboarding, eskrima
+Volunteer with Dogs Search and Rescue Berkshire, hiking, longboarding, eskrima and walking my dog.
